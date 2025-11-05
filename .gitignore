@@ -1,0 +1,8 @@
+#  Ignore dataset files
+dataset/holidays_events.csv
+dataset/oil.csv
+dataset/sample_submission.csv
+dataset/stores.csv
+dataset/test.csv
+dataset/train.csv
+dataset/transactions.csv
